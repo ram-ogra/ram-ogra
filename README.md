@@ -1,109 +1,118 @@
-# Hi there, I'm Jenes Sonkar 👋
-
+Hi there, I'm Ramswroop Ogra 👋
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pnMHJoam1iY2Y1bW90Y3dncG0yeHNmeWdtNWRxc2R6M2hnMDdndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.webp" width="230">
 
-CSE student at [**`IIIT Sonepat`**](https://www.iiitsonepat.ac.in/) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-Intrested in `Backend`, `Linux`, `AWS` and `Python`.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+IT student at IIIT Sonepat
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-Welcome to my GitHub profile!  
-I'm a *final-year B.Tech student* in *Computer Science* at the *Indian Institute of Information Technology, Sonepat*.  
-I’m passionate about **backend engineering**, **system design**, and creating **scalable, secure APIs**.  
+Interested in Backend Development, Machine Learning, Linux, and Cloud ☁️
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
----
+Welcome to my GitHub profile!
+I'm a B.Tech IT student at IIIT Sonepat passionate about backend engineering, ML projects, and building efficient, scalable applications.
 
-## 🚀 About Me
-- 🔭 Currently working on building **robust backend systems** using Node.js, Express.js & MySQL  
-- 🌱 Exploring *System Design*, *Distributed Systems*, and *Database Optimization*  
-- 🧠 Interested in solving *DSA problems* with a strong focus on dynamic programming and graphs  
-- 💬 Love discussing *authentication systems, API design, databases, and security practices*  
-- ⚡ Fun fact: I enjoy explaining DSA problems in an **interview-style breakdown** to friends  
+🚀 About Me
 
----
+🔭 Currently working on Deep Learning & Image Enhancement projects (RetinexNet, CNNs)
 
-## 🛠️ Skills & Technologies  
+🌱 Learning Backend Development, System Design, & Cloud Deployments
 
-**💻 Programming Languages**  
-- C++ (Problem Solving, DSA)  
-- Pyhton (Backend Development)  
-- SQL (Database Queries & Optimization)
-  
-**⚙️ Frontend & Frameworks**  
-- ReactJS 
+💡 Strong interest in Machine Learning, Computer Vision, and Python scripting
 
-**⚙️ Backend & Frameworks**  
-- Node.js, Express.js  
-- Flask (Python micro-framework)  
+🧠 Solve DSA questions regularly (Arrays, DP, Trees)
 
-**🗄️ Databases**  
-- MySQL (Schema design, Joins, Indexing, Optimization)  
-- Basic knowledge of MongoDB  
+⚡ Fun fact: I enjoy building projects from scratch just to understand how things work internally
 
-**🧰 Tools & Platforms**  
-- Postman (API testing)  
-- Git & GitHub (Version Control, Branching, PRs, Merging)  
-- Nginx (Basics of reverse proxy & load balancing)  
-- Linux (Basic shell usage & server deployment)  
+🛠️ Skills & Technologies
+💻 Programming Languages
 
-**🔑 Core Concepts**  
-- RESTful API Design  
-- JWT Authentication & Token-based Auth  
-- MVC Architecture  
-- Schema Validation & Input Sanitization  
-- HTTPS, SSL/TLS basics  
-- Request Timeout & Payload Size Handling  
+Python (ML, DL, Backend)
 
----
+C, C++
 
-## 🎯 Current Goals
-- 📈 Mastering *scalable backend systems* with microservices in Node.js  
-- 🔄 Strengthening knowledge of *system design principles* (load balancing, caching, database sharding)  
-- 🧩 Improving *DSA performance* in competitive programming for interviews  
-- ☁️ Learning *Cloud Deployments* (AWS EC2 basics, Docker containers)  
+JavaScript
 
----
+⚙️ Frontend
 
-## 📊 GitHub Stats  
+HTML, CSS, JavaScript
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jenes-Sonkar&show_icons=true&theme=react&hide_border=true" alt="Jenes's GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jenes-Sonkar&theme=react&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>
+React (Basics)
 
----
+⚙️ Backend
 
-## 🏅 Badges & Achievements  
+Flask
 
-![Backend](https://img.shields.io/badge/Backend-Developer-blue?style=flat&logo=node.js)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-OS-important?logo=linux&logoColor=white)  
-![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-green?logo=nginx&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-Authentication-yellow?logo=jsonwebtokens&logoColor=white)  
+Node.js & Express (learning phase)
 
----
+🧠 Machine Learning / Deep Learning
 
-## 🌐 Connect With Me  
+TensorFlow, Keras
 
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/jenes-sonkar-18ba2327b/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
-      </a>
-    </td>
-    <td>
-      <a href="mailto:jenessonkar@gmail.com" target="_blank">
-        <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" width="35" height="35"/>
-      </a>
-    </td>
-  </tr>
-</table>
+Computer Vision
 
----
+Image Processing (Retinex, Enhancement Models)
 
-✨ Backend Developer | Open Source Enthusiast | Lifelong Learner
+🗄️ Databases
+
+MySQL
+
+MongoDB (Basics)
+
+🧰 Tools & Platforms
+
+Git & GitHub
+
+Postman
+
+Linux (Ubuntu)
+
+VS Code
+
+Jupyter Notebook
+
+🔑 Core Concepts
+
+API Development
+
+Model Training & Optimization
+
+REST Architecture
+
+Token Authentication
+
+File Handling & Data Pipelines
+
+🎯 Current Goals
+
+🚀 Build more ML-based end-to-end projects
+
+📈 Strengthen Backend + Cloud Deployment skills
+
+📚 Master DSA for placements
+
+🧩 Get better at System Design basics
+
+☁️ Learn AWS EC2, S3, Lambda
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ram-ogra&show_icons=true&theme=react&hide_border=true" height="160"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ram-ogra&theme=react&hide_border=true" height="160"> </p>
+🏅 Badges & Tech Stack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🌐 Connect With Me
+<table> <tr> <td> <a href="https://www.linkedin.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/> </a> </td> <td> <a href="mailto:ramogra101@gmail.com"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="35"/> </a> </td> </tr> </table>
+
+✨ Backend & ML Developer | Open Source Contributor | Lifelong Learner
